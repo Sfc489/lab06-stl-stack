@@ -1,1 +1,1 @@
-# lab06-stl-stack
+# Lab 6: Stacks in the STL
